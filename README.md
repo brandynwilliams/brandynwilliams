@@ -9,7 +9,7 @@
 - 👨‍💻 I am currently a student at BloomTech 
 - 📫 How to reach me: brandyn_williams@gmail.com
 - 💬 Ask me about anything!
-- ⚡ Fun Fact: The First Computer Weighed More Than 27 Tons
+- ⚡ Fun Fact: The First Computer Weighed More Than 27 Tons.
 
 
 <h3 align="left">Connect with me:</h3>
