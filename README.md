@@ -8,8 +8,8 @@
 - 🚶 I'm a Web Developer from Hyde Park, NY
 - 👨‍💻 I am currently a student at BloomTech 
 - 📫 How to reach me: brandyn_williams@outlook.com
-- 💬 Ask me about anything!
-- ⚡ Fun Fact: The First Computer Weighed More Than 27 Tons.
+- 💬 Ask me about anything!!
+- ⚡ Fun Fact: The First Computer Weighed More Than 27 Tons
 
 
 <h3 align="left">Connect with me:</h3>
